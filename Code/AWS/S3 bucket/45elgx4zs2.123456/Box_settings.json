@@ -1,0 +1,11 @@
+{
+ "Time":"20230808114114",
+ "Camera":"0",
+ "Lock":"1",
+ "Delivery":"1",
+ "Microphone":"1",
+ "WiFi":"15-624",
+ "motion-detected":"0",
+ "Stream-Video":"1",
+ "HLSStreamingSessionURL":"https://b-8a2e830e.kinesisvideo.ap-southeast-1.amazonaws.com/hls/v1/getHLSMasterPlaylist.m3u8?SessionToken=CiBagMeBbu7Q7sFpy8O7TBo0B3cnxXCJBvtGNhPMhcmmSxIQ56VOPMrVahZD4AAwoE572RoZGFUUebR-k-403wsFUg3Jei3aCwegm9PT8yIgkR1W_4yGRqJag2Dz6zZ_WI3QtcpElyyqiu9gXUu8S2Y~"
+}

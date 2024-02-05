@@ -1,0 +1,5 @@
+{
+    "thingTypeName": "kvs-camera", 
+    "thingTypeId": "74694b77-323a-48b3-97e9-38b6e4c4e170", 
+    "thingTypeArn": "arn:aws:iot:ap-southeast-1:044653284258:thingtype/kvs-camera"
+}

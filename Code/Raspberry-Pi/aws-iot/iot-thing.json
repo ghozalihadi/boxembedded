@@ -1,0 +1,5 @@
+{
+    "thingArn": "arn:aws:iot:ap-southeast-1:044653284258:thing/kvs-camera-01", 
+    "thingName": "kvs-camera-01", 
+    "thingId": "96a9493d-23cf-4e16-ab31-13a64c237b73"
+}
